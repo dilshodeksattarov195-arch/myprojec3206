@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusteruarse",
+        "uuid": 4969300,
+        "checksum": "fwv7tt"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
